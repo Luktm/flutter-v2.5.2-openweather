@@ -10,6 +10,8 @@ Recommend is android simulators or devices because ios compiling has extra step 
 
 ### Available Scripts
 
+I am using flutter version 2.5.0, and you are using flutter version 3 let's run *`flutter downgrade v2.5.0`* to meet my flutter version.
+
 ### `flutter pub get`
 
 Install flutter packages from pubspec.yaml file where the packages was being placed
